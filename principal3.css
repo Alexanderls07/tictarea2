@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document - principal3*/
+.flexbox{
+display: flex;
+border: 2px solid blue;
+background-color: green;
+padding: 10px;
+width: 35%;
+}
+#blanco{
+padding: 20px;
+margin: 10px;
+	background-color:lightgreen;
+}
+#rosado{
+padding: 20px;
+margin: 10px;
+background-color: pink;
+}
+#celeste{
+padding: 20px;
+margin: 10px;
+background-color: salmon;
+}
+

@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* Primer código CSS - Principal */
+p[name="Perito"]{color:red;}
+p[name="Secretariado"]{color:aquamarine;}
+p[name="Computación"]{color:#AE3EE7;}
+
